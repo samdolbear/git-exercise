@@ -1,2 +1,3 @@
 # git-exercise
-altcademy
+
+This is a repo for practicing git.
